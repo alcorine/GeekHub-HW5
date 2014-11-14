@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    margin: 0;
+}
+address {
+    font-size: 21px;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    margin: 20px;
+}
+h2,p {
+    margin: 10px 0px;
+}
+.bold-text{
+    font-weight: bold;
+}
+.i-text{
+    font-style: italic;
+}
+.und{
+    text-decoration: underline;
+}
+.img-float {
+    float: left;
+}
+
+.clear-text {
+    clear: both;
+}
+.align-right {
+    text-align: right;
+}
+.center-img {
+    text-align: center;
+}
+ul, ol {
+    margin: 30px;
+}
