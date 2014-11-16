@@ -1,0 +1,55 @@
+h1 {
+    margin: 10px 8px;
+    font: 30px ;
+    }
+h2 {
+    margin: 10px 8px;
+}
+fieldset {
+    border: 1px solid grey;
+    margin: 8px;
+    padding: 10px;
+}
+legend {
+    margin: 10px;
+    font-weight: bold;
+}
+.few-about-yourself {
+    line-height: 2.0em;
+    padding: 0;
+    margin: 0 0;
+}
+.more-about-yourself {
+    font-size: small;
+    padding: 0;
+    margin: 10px;
+}
+.weekend-time,.book-for-html, .bil {
+    margin: 10px;
+    font-weight: bold;
+}
+.hobby, .bil-item, .class-spam, .diff-item {
+    margin: 5px;
+}
+.comment, .email {
+    font-weight: bold;
+
+}
+.text {
+    margin: 15px 0;
+}
+.spam {
+    margin: 15px 0 0 ;
+    font-weight: bold;
+}
+.spam-cat {
+    margin: 0 0 10px;
+    font-style: italic;
+}
+.diff {
+    margin: 15px 0;
+    font-weight: bold;
+}
+.send, select {
+    margin: 8px;
+}

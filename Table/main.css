@@ -1,0 +1,22 @@
+.first-table {
+    border: double;
+    width: 100%;
+}
+.second-table {
+    margin: 20px auto;
+    width: 600px;
+    border: double;
+}
+.cult {
+    text-align: left;
+}
+.norm {
+    width: 150px;
+}
+.work-time {
+    width: 250px;
+}
+.third-table {
+    width: 600px;
+    margin: 20px auto;
+}

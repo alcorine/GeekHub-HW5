@@ -8,10 +8,6 @@ address {
 }
 h4 {
     text-align: center;
-    margin: 20px;
-}
-h2,p {
-    margin: 10px 0px;
 }
 .bold-text{
     font-weight: bold;
@@ -35,6 +31,17 @@ h2,p {
 .center-img {
     text-align: center;
 }
-ul, ol {
-    margin: 30px;
+p {
+    margin: 15px 0;
+}
+ul,li {
+    list-style-type: disc;
+    margin-left: 30px;
+}
+ul {
+    margin: 10px;
+}
+ol>li {
+    list-style-type: decimal;
+    margin-left: 40px;
 }
